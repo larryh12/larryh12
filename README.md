@@ -24,7 +24,7 @@
 </h1>
 
 <p align="center">
-  <img src="/public/banner.png" width="640" />
+  <img src="/public/banner.png" width="640" height="480" />
 </p>
 
 <br/>
