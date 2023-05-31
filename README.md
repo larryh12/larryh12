@@ -67,5 +67,5 @@
 ## :bulb: Quote of the Day
 
 <!--QOTD_STARTS_HERE-->
-<blockquote>&ldquo;Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
+<blockquote>&ldquo;Everyone is a moon, and has a dark side which he never shows to anybody.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 <!--QOTD_ENDS_HERE-->
