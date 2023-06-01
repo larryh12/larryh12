@@ -67,5 +67,5 @@
 ## :bulb: Quote of the Day
 
 <!--QOTD_STARTS_HERE-->
-<blockquote>&ldquo;Everyone is a moon, and has a dark side which he never shows to anybody.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+<blockquote>&ldquo;Time goes from present to past.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
 <!--QOTD_ENDS_HERE-->
