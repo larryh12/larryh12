@@ -67,5 +67,5 @@
 ## :bulb: Quote of the Day
 
 <!--QOTD_STARTS_HERE-->
-<blockquote>&ldquo;Time goes from present to past.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
+<blockquote>&ldquo;Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 <!--QOTD_ENDS_HERE-->
