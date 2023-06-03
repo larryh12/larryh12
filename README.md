@@ -67,5 +67,5 @@
 ## :bulb: Quote of the Day
 
 <!--QOTD_STARTS_HERE-->
-<blockquote>&ldquo;Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+<blockquote>&ldquo;Dreams are the touchstones of our characters.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
 <!--QOTD_ENDS_HERE-->
