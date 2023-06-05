@@ -67,5 +67,5 @@
 ## :bulb: Quote of the Day
 
 <!--QOTD_STARTS_HERE-->
-<blockquote>&ldquo;Through selfless service, you will always be fruitful and find the fulfillment of your desires.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+<blockquote>&ldquo;There are two things a person should never be angry at, what they can help, and what they cannot.&rdquo; &mdash; <footer>Plato</footer></blockquote>
 <!--QOTD_ENDS_HERE-->
