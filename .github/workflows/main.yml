@@ -19,4 +19,4 @@ jobs:
           COMMIT_MESSAGE: 'Update Wakatime stats'
           TIME_RANGE: all_time
           SHOW_TOTAL: true
-          BLOCKS: '⣀⣿'
+          LANG_COUNT: 10
