@@ -19,29 +19,24 @@
 </p>
 
 <h1 align="center">
-  Hi there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" />
+  👨‍💻
 </h1>
 
-<p align="center">
-  <img src="/public/banner.gif" />
-</p>
+<br/>
+
+## 👋 Hi there, I'm Larry!
+
+🐨 I'm a graduate software developer based in Queensland, Australia.
+
+🔥 I'm a dedicated engineer with hands-on experience in full-stack web development and data science.
+
+📈 I'm passionate about creating innovative web applications and data-driven solutions that enhance user experience and business value.
+
+🛠️ I'm also an active learner, avid problem solver, and effective communicator, aspiring to deliver highly performant solutions that focus on scalability and availability.
 
 <br/>
 
-## :man_technologist: About Me
-
-:koala: I'm a graduate software developer based in Queensland, Australia.
-
-:fire: I'm an ambitious engineer with hands-on experience in full-stack web development and data science.
-
-:chart_with_upwards_trend: I'm passionate about creating innovative web applications and data-driven solutions that enhance user experience and business value.
-
-:hammer_and_wrench: I'm also an avid problem solver, aspiring to deliver highly performant solutions that focus on scalability and availability.
-
-<br/>
-
-## :computer: I'm Currently Learning
+## 💻 I'm Currently Learning:
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" width="48" height="48" />&nbsp;&nbsp;&nbsp;
@@ -54,17 +49,12 @@
 
 <br/>
 
-## :bar_chart: My Stats
+## 📊 My Dev Hours
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=larryh12&card_width=640" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=larryh12&layout=compact&hide=other&custom_title=Dev+Time" />
-</p>
-
-## :bulb: Quote of the Day
+## 💡 Quote of the Day
 
 <!--QOTD_STARTS_HERE-->
 <blockquote>&ldquo;It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
