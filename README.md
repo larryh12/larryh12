@@ -39,12 +39,12 @@
 ## 💻 I'm Currently Learning:
 
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" width="48" height="48" />&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="48" height="48" />&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" width="48" height="48" />&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="48" height="48" />&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="48" height="48" />&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="48" height="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs" title="Next.js" width="48" height="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react" title="React" width="48" height="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss" title="Tailwind CSS" width="48" height="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript" title="JavaScript" width="48" height="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript" title="TypeScript" width="48" height="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python" title="Python" width="48" height="48" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <br/>
