@@ -1,0 +1,52 @@
+{
+  "hello": {
+    "head": "👋 Hi there, I'm Larry!",
+    "body": [
+      "🐨 I'm a graduate software developer based in Queensland, Australia.",
+      "🔥 I'm a dedicated engineer with hands-on experience in full-stack web development and data science.",
+      "📈 I'm passionate about creating innovative web applications and data-driven solutions that enhance user experience and business value.",
+      "🛠️ I'm also an active learner, avid problem solver, and effective communicator, aspiring to deliver highly performant solutions that focus on scalability and availability."
+    ]
+  },
+  "tech": {
+    "head": "💻 I'm Currently Learning:",
+    "body": [
+      {
+        "slug": "nextdotjs",
+        "title": "Next.js",
+        "hex": "#000000",
+        "hex-text": ""
+      },
+      {
+        "slug": "react",
+        "title": "React",
+        "hex": "#61DAFB",
+        "hex-text": ""
+      },
+      {
+        "slug": "tailwindcss",
+        "title": "Tailwind CSS",
+        "hex": "#06B6D4",
+        "hex-text": ""
+      },
+      {
+        "slug": "javascript",
+        "title": "JavaScript",
+        "hex": "#F7DF1E",
+        "hex-text": ""
+      },
+      {
+        "slug": "typescript",
+        "title": "TypeScript",
+        "hex": "#3178C6",
+        "hex-text": ""
+      },
+      {
+        "slug": "python",
+        "title": "Python",
+        "hex": "#3776AB",
+        "hex-text": ""
+      }
+    ]
+  }
+}
