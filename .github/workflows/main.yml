@@ -1,4 +1,4 @@
-name: update-readme-stats
+name: update-readme
 
 on:
   workflow_dispatch:
