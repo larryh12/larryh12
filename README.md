@@ -73,5 +73,5 @@ Docker       4 mins          ░░░░░░░░░░░░░░░░░
 ## 💡 Quote of the Day
 
 <!--QOTD_STARTS_HERE-->
-<blockquote>&ldquo;It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+<blockquote>&ldquo;Youth has no age.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
 <!--QOTD_ENDS_HERE-->
