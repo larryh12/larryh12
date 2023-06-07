@@ -48,5 +48,83 @@
         "hex-text": ""
       }
     ]
+  },
+  "qual": [
+    {
+      "head": {
+        "title": "Griffith University",
+        "subtitle": "CRICOS: 00233E",
+        "sublink": "https://cricos.education.gov.au/Institution/InstitutionDetails.aspx?ProviderCode=00233E",
+        "year": "2019 - 2022"
+      },
+      "body": [
+        "Bachelor of Information Technology",
+        "Awarded with Distinction GPA: 6.83 / 7",
+        "Awarded for Academic Excellence in:",
+        [
+          {
+            "a": "2019",
+            "link": "https://www.credly.com/badges/295dfe3f-f2f0-4a3b-ae0a-f0acb3824c9c/"
+          },
+          {
+            "a": "2020",
+            "link": "https://www.credly.com/badges/87f3870c-20a6-47ab-b565-7202dc077208/"
+          },
+          {
+            "a": "2022",
+            "link": "https://www.credly.com/badges/f6977589-9622-4dd3-9d50-53289877830d/"
+          }
+        ]
+      ]
+    }
+  ],
+  "cert": [
+    {
+      "head": "PTE Academic",
+      "body": "Score: 90 - 03/2023"
+    },
+    {
+      "head": "IELTS Academic",
+      "body": "Score: 8.0 - 06/2017"
+    }
+  ],
+  "exp": [
+    {
+      "head": {
+        "image": "https://usercontent.one/wp/studyoptions.com/wp-content/uploads/2021/09/Griffith-University-logo.jpg",
+        "text": {
+          "title": "Software Developer @",
+          "sub1": {
+            "a": "CAEEPR",
+            "link": "https://www.griffith.edu.au/griffith-business-school/research/centre-applied-energy-economics-policy-research"
+          },
+          "sub2": "07/2022 - 11/2022 | Internship"
+        }
+      },
+      "body": [
+        "Developed an efficient and effective data extraction tool using Python frameworks for a large-scale data problem in the national electricity market research by AEMO and CAEEPR.",
+        "Enhanced the staff efficiency and productivity by automating the data extraction process, saving up to 80% of time and resources compared to manual methods.",
+        "Improved the data readability and accuracy by 2x by filtering and separating data by type and device identifiers.",
+        "Reduced the data size by 96% by removing duplicated and irrelevant entries, saving up to 70 MB of disk storage per file.",
+        "Provided valuable insights for future research on generator bidding strategies, allowing the staff to analyse and compare different scenarios and outcomes, improving the overall research quality by 3x.",
+        "Received Finalist Place for The Best Innovative Project in Trimester 2, 2022 out of 50 competing projects for delivering a user-friendly application that met the client's objectives and expectations."
+      ]
+    }
+  ],
+  "links": {
+    "name": {
+      "first": "Larry",
+      "last": "Huynh",
+      "title": "Graduate Software Developer"
+    },
+    "email": "larry.huynh.dev@outlook.com",
+    "linkedin": {
+      "id": "larry-huynh-dev",
+      "link": "https://www.linkedin.com/in/larry-huynh-dev/"
+    },
+    "github": {
+      "id": "larryh12",
+      "link": "https://github.com/larryh12"
+    }
   }
 }
