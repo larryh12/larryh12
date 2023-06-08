@@ -102,7 +102,7 @@
         }
       },
       "body": [
-        "Developed an efficient and effective data extraction tool using Python frameworks for a large-scale data problem in the national electricity market research by AEMO and CAEEPR.",
+        "Developed an efficient and effective data processing solution using Python for a large-scale data problem in the national electricity market research by AEMO and CAEEPR.",
         "Enhanced the staff efficiency and productivity by automating the data extraction process, saving up to 80% of time and resources compared to manual methods.",
         "Improved the data readability and accuracy by 2x by filtering and separating data by type and device identifiers.",
         "Reduced the data size by 96% by removing duplicated and irrelevant entries, saving up to 70 MB of disk storage per file.",
