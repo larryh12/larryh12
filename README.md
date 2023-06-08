@@ -68,5 +68,5 @@ YAML         1 hr 59 mins    ░░░░░░░░░░░░░░░░░
 ## 💡 Quote of the Day
 
 <!--QOTD_STARTS_HERE-->
-<blockquote>&ldquo;Youth has no age.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
 <!--QOTD_ENDS_HERE-->
