@@ -115,7 +115,8 @@
     "name": {
       "first": "Larry",
       "last": "Huynh",
-      "title": "Graduate Software Developer"
+      "title": "Graduate Software Developer",
+      "avatar": "https://raw.githubusercontent.com/larryh12/larryh12/main/public/avatar.png"
     },
     "email": "larry.huynh.dev@outlook.com",
     "linkedin": {
