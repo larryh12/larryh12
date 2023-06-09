@@ -1,6 +1,6 @@
 {
   "hello": {
-    "head": "👋 Hi there, I'm Larry!",
+    "head": "👋 Hi there, I'm Larry",
     "body": [
       "🐨 I'm a graduate software developer based in Queensland, Australia.",
       "🔥 I'm a dedicated engineer with hands-on experience in full-stack web development and data science.",
@@ -9,7 +9,7 @@
     ]
   },
   "tech": {
-    "head": "💻 I'm Currently Learning:",
+    "head": "💻 I'm Currently Learning",
     "body": [
       {
         "slug": "nextdotjs",
