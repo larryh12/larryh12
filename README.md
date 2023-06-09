@@ -68,5 +68,5 @@ Markdown     4 hrs 6 mins    ▓░░░░░░░░░░░░░░░░
 ## 💡 Quote of the Day
 
 <!--QOTD_STARTS_HERE-->
-<blockquote>&ldquo;If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
+<blockquote>&ldquo;One is never afraid of the unknown; one is afraid of the known coming to an end.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
 <!--QOTD_ENDS_HERE-->
