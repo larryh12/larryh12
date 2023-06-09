@@ -52,30 +52,16 @@
   "qual": [
     {
       "head": {
-        "title": "Griffith University",
-        "subtitle": "CRICOS: 00233E",
-        "sublink": "https://cricos.education.gov.au/Institution/InstitutionDetails.aspx?ProviderCode=00233E",
+        "title": "Bachelor of Information Technology",
+        "subtitle": "Griffith University",
+        "link": "https://www.griffith.edu.au/",
         "year": "2019 - 2022"
       },
       "body": [
-        "Bachelor of Information Technology",
-        "Awarded with Distinction GPA: 6.83 / 7",
-        "Awarded for Academic Excellence in:",
-        [
-          {
-            "a": "2019",
-            "link": "https://www.credly.com/badges/295dfe3f-f2f0-4a3b-ae0a-f0acb3824c9c/"
-          },
-          {
-            "a": "2020",
-            "link": "https://www.credly.com/badges/87f3870c-20a6-47ab-b565-7202dc077208/"
-          },
-          {
-            "a": "2022",
-            "link": "https://www.credly.com/badges/f6977589-9622-4dd3-9d50-53289877830d/"
-          }
-        ]
-      ]
+        "Degree achieved with Distinction GPA: 6.83/7.",
+        "Academic Excellence Awards in: 2019, 2020, and 2022.",
+        "School of ICT Award for highest GPA graduates in academic year 2022."
+      ],
     }
   ],
   "cert": [
@@ -92,13 +78,10 @@
     {
       "head": {
         "image": "https://usercontent.one/wp/studyoptions.com/wp-content/uploads/2021/09/Griffith-University-logo.jpg",
-        "text": {
-          "title": "Software Developer @",
-          "sub1": {
-            "a": "CAEEPR",
-            "link": "https://www.griffith.edu.au/griffith-business-school/research/centre-applied-energy-economics-policy-research"
-          },
-          "sub2": "07/2022 - 11/2022 | Internship"
+        "title": "Software Developer @",
+        "name": "CAEEPR",
+        "link": "https://www.griffith.edu.au/griffith-business-school/research/centre-applied-energy-economics-policy-research"
+        "time": "07/2022 - 11/2022 | Internship"
         }
       },
       "body": [
@@ -118,7 +101,10 @@
       "title": "Graduate Software Developer",
       "avatar": "https://raw.githubusercontent.com/larryh12/larryh12/main/public/avatar.png"
     },
-    "email": "larry.huynh.dev@outlook.com",
+    "email": {
+      "id": "larry.huynh.dev@outlook.com",
+      "link": "mailto:larry.huynh.dev@outlook.com"
+    },
     "linkedin": {
       "id": "larry-huynh-dev",
       "link": "https://www.linkedin.com/in/larry-huynh-dev/"
