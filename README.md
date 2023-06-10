@@ -68,5 +68,5 @@ Markdown     4 hrs 6 mins    ▓░░░░░░░░░░░░░░░░
 ## 💡 Quote of the Day
 
 <!--QOTD_STARTS_HERE-->
-<blockquote>&ldquo;One is never afraid of the unknown; one is afraid of the known coming to an end.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
+<blockquote>&ldquo;When you want to be honored by others, you learn to honor them first.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
 <!--QOTD_ENDS_HERE-->
