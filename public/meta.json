@@ -14,38 +14,32 @@
       {
         "slug": "nextdotjs",
         "title": "Next.js",
-        "hex": "#000000",
-        "hex-text": ""
+        "hex": "000000"
       },
       {
         "slug": "react",
         "title": "React",
-        "hex": "#61DAFB",
-        "hex-text": ""
+        "hex": "61DAFB"
       },
       {
         "slug": "tailwindcss",
         "title": "Tailwind CSS",
-        "hex": "#06B6D4",
-        "hex-text": ""
+        "hex": "06B6D4"
       },
       {
         "slug": "javascript",
         "title": "JavaScript",
-        "hex": "#F7DF1E",
-        "hex-text": ""
+        "hex": "F7DF1E"
       },
       {
         "slug": "typescript",
         "title": "TypeScript",
-        "hex": "#3178C6",
-        "hex-text": ""
+        "hex": "3178C6"
       },
       {
         "slug": "python",
         "title": "Python",
-        "hex": "#3776AB",
-        "hex-text": ""
+        "hex": "3776AB"
       }
     ]
   },
@@ -66,12 +60,12 @@
   ],
   "cert": [
     {
-      "head": "PTE Academic",
-      "body": "03/2023 - Score: 90"
+      "title": "PTE Academic - Score: 90",
+      "year": "03/2023"
     },
     {
-      "head": "IELTS Academic",
-      "body": "06/2017 - Score: 8.0"
+      "title": "IELTS Academic - Score: 8.0",
+      "year": "06/2017"
     }
   ],
   "exp": [
