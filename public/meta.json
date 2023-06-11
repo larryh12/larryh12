@@ -84,6 +84,9 @@
         "Reduced the data size by 96% by removing duplicated and irrelevant entries, saving up to 70 MB of disk storage per file.",
         "Provided valuable insights for future research on generator bidding strategies, allowing the staff to analyse and compare different scenarios and outcomes, improving the overall research quality by 3x.",
         "Received Finalist Place for The Best Innovative Project in Trimester 2, 2022 out of 50 competing projects for delivering a user-friendly application that met the client's objectives and expectations."
+      ],
+      "work": [
+        "aemo-app"
       ]
     }
   ],
