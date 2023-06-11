@@ -68,5 +68,5 @@ Markdown     7 hrs 55 mins   ▓░░░░░░░░░░░░░░░░
 ## 💡 Quote of the Day
 
 <!--QOTD_STARTS_HERE-->
-<blockquote>&ldquo;When you want to be honored by others, you learn to honor them first.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
+<blockquote>&ldquo;Even in the grave, all is not lost.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
 <!--QOTD_ENDS_HERE-->
