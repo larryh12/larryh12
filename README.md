@@ -68,5 +68,5 @@ YAML         5 hrs 59 mins   ▓░░░░░░░░░░░░░░░░
 ## 💡 Quote of the Day
 
 <!--QOTD_STARTS_HERE-->
-<blockquote>&ldquo;Debt is the slavery of the free.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
+<blockquote>&ldquo;Most people fail in life because they major in minor things.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 <!--QOTD_ENDS_HERE-->
