@@ -68,5 +68,5 @@ YAML         5 hrs 59 mins   ▓░░░░░░░░░░░░░░░░
 ## 💡 Quote of the Day
 
 <!--QOTD_STARTS_HERE-->
-<blockquote>&ldquo;Most people fail in life because they major in minor things.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;The key to success is action.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 <!--QOTD_ENDS_HERE-->
