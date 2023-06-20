@@ -24,49 +24,25 @@
 
 <br/>
 
-## 👋 Hi there, I'm Larry!
-
-🐨 I'm a graduate software developer based in Queensland, Australia.
-
-🔥 I'm a dedicated engineer with hands-on experience in full-stack web development and data science.
-
-📈 I'm passionate about creating innovative web applications and data-driven solutions that enhance user experience and business value.
-
-🛠️ I'm also an active learner, avid problem solver, and effective communicator, aspiring to deliver highly performant solutions that focus on scalability and availability.
+<!--DIV:hello-->
+<!--/DIV:hello-->
 
 <br/>
 
-## 💻 I'm Currently Learning:
-
-<p>
-  <img src="https://cdn.simpleicons.org/nextdotjs" title="Next.js" width="48" height="48" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react" title="React" width="48" height="48" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss" title="Tailwind CSS" width="48" height="48" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript" title="JavaScript" width="48" height="48" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript" title="TypeScript" width="48" height="48" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python" title="Python" width="48" height="48" />&nbsp;&nbsp;&nbsp;
-</p>
+<!--DIV:tech-->
+<!--/DIV:tech-->
 
 <br/>
 
-## 📊 My Dev Hours
+<!--DIV:waka-->
+<!--/DIV:waka-->
 
-<!--START_SECTION:waka-->
+<br/>
 
-```py
-Total Time: 291 hrs 31 mins
+<!--DIV:blog-->
+<!--/DIV:blog-->
 
-TypeScript   118 hrs 37 mins ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░   40.56 %
-JavaScript   72 hrs 52 mins  ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░   24.92 %
-Python       52 hrs 25 mins  ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   17.93 %
-Markdown     32 hrs 10 mins  ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
-YAML         5 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-```
+<br/>
 
-<!--END_SECTION:waka-->
-
-## 💡 Quote of the Day
-
-<!--QOTD_STARTS_HERE-->
-<blockquote>&ldquo;The key to success is action.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
-<!--QOTD_ENDS_HERE-->
+<!--DIV:qotd-->
+<!--/DIV:qotd-->
