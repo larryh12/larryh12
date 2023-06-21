@@ -88,5 +88,5 @@ YAML        3 hrs 53 mins   █                    1.71%
 
 ## 💡 Quote of the Day
 
-<blockquote>&ldquo;Life happens in the river, not the shore.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;In the middle of chaos lies opportunity.  &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 <!--/DIV:qotd-->
