@@ -88,5 +88,5 @@ YAML        4 hrs 8 mins    █                    1.79%
 
 ## 💡 Quote of the Day
 
-<blockquote>&ldquo;A person hears only what they understand.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
+<blockquote>&ldquo;What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 <!--/DIV:qotd-->
