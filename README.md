@@ -88,5 +88,5 @@ YAML        4 hrs 8 mins    █                    1.79%
 
 ## 💡 Quote of the Day
 
-<blockquote>&ldquo;What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+<blockquote>&ldquo;Wheels of justice grind slow but grind fine.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 <!--/DIV:qotd-->
