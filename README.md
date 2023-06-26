@@ -59,13 +59,13 @@
 ## 📊 My Dev Hours
 
 ```py
-Total Time  231 hrs 10 mins
+Total Time  232 hrs 19 mins
 
-TypeScript  88 hrs 46 mins  ███████████████████  38.41%
-JavaScript  58 hrs 21 mins  █████████████        25.24%
-Python      45 hrs 17 mins  ██████████           19.59%
-Markdown    26 hrs 51 mins  ██████               11.62%
-YAML        4 hrs 8 mins    █                    1.79%
+TypeScript  89 hrs 55 mins  ███████████████████  38.71%
+JavaScript  58 hrs 21 mins  █████████████        25.12%
+Python      45 hrs 17 mins  ██████████           19.5%
+Markdown    26 hrs 51 mins  ██████               11.56%
+YAML        4 hrs 8 mins    █                    1.78%
 ```
 <!--/DIV:waka-->
 
@@ -75,6 +75,7 @@ YAML        4 hrs 8 mins    █                    1.79%
 
 ## 📝 Latest Blog Posts
 
+- [How I Built a ChatGPT Web App with Next.js 13 and OpenAI API](https://larryh12.notion.site/How-I-Built-a-ChatGPT-Web-App-with-Next-js-13-and-OpenAI-API-60b61d3eec5f410babdfc297fc1d0c4d)
 - [How I Automate the Process of Ricing my GitHub Profile](https://larryh12.notion.site/How-I-Automate-the-Process-of-Ricing-my-GitHub-Profile-4373d0daea8a49ef9af0644697b16826)
 - [I Learned to Build Modern UI/UX Websites](https://larryh12.notion.site/I-Learned-to-Build-Modern-UI-UX-Websites-27a2123031784a2ab74d965d2b296ab7)
 - [I Learned to Build a Web App with Vanilla JavaScript and REST API](https://larryh12.notion.site/I-Learned-to-Build-a-Web-App-with-Vanilla-JavaScript-and-REST-API-1ba2fc0093404e27b9a32e969e30a95e)
@@ -88,5 +89,5 @@ YAML        4 hrs 8 mins    █                    1.79%
 
 ## 💡 Quote of the Day
 
-<blockquote>&ldquo;Wheels of justice grind slow but grind fine.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
+<blockquote>&ldquo;Discontent is the first necessity of progress.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
 <!--/DIV:qotd-->
