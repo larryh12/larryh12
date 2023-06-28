@@ -89,5 +89,5 @@ YAML        4 hrs 8 mins    █                    1.78%
 
 ## 💡 Quote of the Day
 
-<blockquote>&ldquo;For fast-acting relief try slowing down.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
+<blockquote>&ldquo;Sadness is but a wall between two gardens.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
 <!--/DIV:qotd-->
