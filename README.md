@@ -89,5 +89,5 @@ YAML        4 hrs 8 mins    █                    1.78%
 
 ## 💡 Quote of the Day
 
-<blockquote>&ldquo;Sadness is but a wall between two gardens.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+<blockquote>&ldquo;Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.&rdquo; &mdash; <footer>Conrad Hilton</footer></blockquote>
 <!--/DIV:qotd-->
