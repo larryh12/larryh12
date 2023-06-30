@@ -89,5 +89,5 @@ YAML        4 hrs 8 mins    █                    1.78%
 
 ## 💡 Quote of the Day
 
-<blockquote>&ldquo;Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.&rdquo; &mdash; <footer>Conrad Hilton</footer></blockquote>
+<blockquote>&ldquo;No man is happy unless he believes he is.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
 <!--/DIV:qotd-->
