@@ -89,5 +89,5 @@ YAML        4 hrs 8 mins    █                     1.76%
 
 ## 💡 Quote of the Day
 
-<blockquote>&ldquo;Always focus on the front windshield and not the rear view mirror.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+<blockquote>&ldquo;Not all those who wander are lost.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 <!--/DIV:qotd-->
