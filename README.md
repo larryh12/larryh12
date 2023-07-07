@@ -89,5 +89,5 @@ YAML        4 hrs 8 mins    █                     1.73%
 
 ## 💡 Quote of the Day
 
-<blockquote>&ldquo;The longer we dwell on our misfortunes, the greater is their power to harm us.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+<blockquote>&ldquo;Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
 <!--/DIV:qotd-->
