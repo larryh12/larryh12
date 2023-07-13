@@ -45,7 +45,7 @@ def update_waka(readme):
     response = requests.get(
         f"https://wakatime.com/api/v1/users/current/stats?api_key={WAKATIME_API_KEY}"
     ).json()
-    langs = response["data"]["languages"][:5]
+    langs = response["data"]["languages"]
     lang_name_pad = len(max((str(lang["name"]) for lang in langs), key=len))
     lang_text_pad = len(max((str(lang["text"]) for lang in langs), key=len))
 
