@@ -2,10 +2,10 @@
   "hello": {
     "head": "👋 Hi there, I'm Larry",
     "body": [
-      "🐨 I'm a graduate software developer based in Queensland, Australia.",
-      "🔥 I'm a dedicated engineer with hands-on experience in full-stack web development and data science.",
-      "📈 I'm passionate about creating innovative web applications and data-driven solutions that enhance user experience and business value.",
-      "🛠️ I'm also an active learner, avid problem solver, and effective communicator, aspiring to deliver highly performant solutions that focus on scalability and availability."
+      "🐨 I'm a graduate software developer based in Australia.",
+      "🔥 I'm a engineer with a passion for full-stack software development and computer science.",
+      "📈 I'm experienced in building innovative web applications and data-driven solutions that enhance user experience and drive business value.",
+      "🛠️ I'm also a dedicated learner, avid problem solver, and effective communicator, aspiring to deliver highly performant solutions that focus on scalability and availability."
     ]
   },
   "tech": {
@@ -52,9 +52,9 @@
         "year": "2019 - 2022"
       },
       "body": [
-        "Degree achieved with Distinction GPA: 6.83/7",
+        "GPA: 6.83 / 7.0 – Distinction Qualification",
         "Academic Excellence Awards in: 2019, 2020, 2022",
-        "School of ICT Award for highest GPA graduates in academic year 2022"
+        "School of ICT Award for highest GPA graduate in academic year 2022"
       ]
     }
   ],
@@ -75,15 +75,15 @@
         "title": "Software Developer @",
         "name": "CAEEPR",
         "link": "https://www.griffith.edu.au/griffith-business-school/research/centre-applied-energy-economics-policy-research",
-        "time": "07/2022 - 11/2022 | Internship"
+        "time": "Jul 2022 – Nov 2022 | Work Integrated Learning"
       },
       "body": [
-        "Developed an efficient and effective data processing solution using Python for a large-scale data problem in the national electricity market research by AEMO and CAEEPR.",
-        "Enhanced the staff efficiency and productivity by automating the data extraction process, saving up to 80% of time and resources compared to manual methods.",
-        "Improved the data readability and accuracy by 2x by filtering and separating data by type and device identifiers.",
-        "Reduced the data size by 96% by removing duplicated and irrelevant entries, saving up to 70 MB of disk storage per file.",
-        "Provided valuable insights for future research on generator bidding strategies, allowing the staff to analyse and compare different scenarios and outcomes, improving the overall research quality by 3x.",
-        "Received Finalist Place for The Best Innovative Project in Trimester 2, 2022 out of 50 competing projects for delivering a user-friendly application that met the client's objectives and expectations."
+        "Worked in a team of 5 to develop a data processing application addressing a large-scale data problem in the national electricity market research by CAEEPR and AEMO.",
+        "Collaborated on programming and developing core app functions using Python and pandas, including Data ETL, Data Query, Data Extraction, Error Handling, and GUI Components.",
+        "Enhanced development experience by facilitating clear communication between Dev and Product teams, defining a coherent code base structure, and managing source code version control via GitHub.",
+        "Maintained high-quality code by proactively participating in triage, testing, debugging, issue reviews, merging pull requests, publishing iterative code releases, and writing comprehensive technical documentation.",
+        "Streamlined pipeline efficiency by saving 80% processing time and resources while eliminating 96% data redundancy.",
+        "Earned a finalist position for The Best Innovative Project among 50 competitors by delivering a complete product that met and exceeded client objectives and expectations."
       ],
       "work": [
         "aemo-app"
