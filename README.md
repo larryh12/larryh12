@@ -66,6 +66,18 @@ JavaScript  58 hrs 21 mins   ███████████              21.4
 Python      47 hrs 22 mins   █████████                17.44%
 Markdown    27 hrs 2 mins    █████                    9.95%
 YAML        4 hrs 8 mins     █                        1.52%
+JSON        3 hrs 25 mins    █                        1.26%
+CSS         2 hrs 36 mins                             0.96%
+Other       2 hrs 13 mins                             0.82%
+INI         7 mins                                    0.05%
+Docker      7 mins                                    0.04%
+Bash        6 mins                                    0.04%
+TSConfig    4 mins                                    0.03%
+Git Config  4 mins                                    0.03%
+HTML        2 mins                                    0.01%
+Text        1 min                                     0.01%
+Git         0 secs                                    0.0%
+XML         0 secs                                    0.0%
 ```
 <!--/DIV:waka-->
 
@@ -75,6 +87,9 @@ YAML        4 hrs 8 mins     █                        1.52%
 
 ## 📝 Latest Blog Posts
 
+- [I Learned to Build a Reddit Clone with Next.js (Part 3): Upstash Redis, Optimistic Update, Suspense Streaming](https://larryh12.notion.site/I-Learned-to-Build-a-Reddit-Clone-with-Next-js-Part-3-Upstash-Redis-Optimistic-Update-Suspense--2afc2ea7231e4dadb4ae1071767e18f2)
+- [I Learned to Build a Reddit Clone with Next.js (Part 2): React Query, Zod, Editor.js](https://larryh12.notion.site/I-Learned-to-Build-a-Reddit-Clone-with-Next-js-Part-2-React-Query-Zod-Editor-js-aee3e4d63c744a66979b0a223ce978b9)
+- [I Learned to Build a Reddit Clone with Next.js (Part 1): NextAuth.js, Prisma ORM, PlanetScale MySQL](https://larryh12.notion.site/I-Learned-to-Build-a-Reddit-Clone-with-Next-js-Part-1-NextAuth-js-Prisma-ORM-PlanetScale-MySQL-1ec6ad2026164fb09056fab6dfe5d621)
 - [How I Built a ChatGPT Web App with Next.js 13 and OpenAI API](https://larryh12.notion.site/How-I-Built-a-ChatGPT-Web-App-with-Next-js-13-and-OpenAI-API-60b61d3eec5f410babdfc297fc1d0c4d)
 - [How I Automate the Process of Ricing my GitHub Profile](https://larryh12.notion.site/How-I-Automate-the-Process-of-Ricing-my-GitHub-Profile-4373d0daea8a49ef9af0644697b16826)
 - [I Learned to Build Modern UI/UX Websites](https://larryh12.notion.site/I-Learned-to-Build-Modern-UI-UX-Websites-27a2123031784a2ab74d965d2b296ab7)
@@ -89,5 +104,5 @@ YAML        4 hrs 8 mins     █                        1.52%
 
 ## 💡 Quote of the Day
 
-<blockquote>&ldquo;Most people fail in life not because they aim too high and miss, but because they aim too low and hit.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;Sometimes out of your biggest misery, comes your greatest gain.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 <!--/DIV:qotd-->
