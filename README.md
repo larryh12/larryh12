@@ -28,13 +28,13 @@
 
 ## 👋 Hi there, I'm Larry
 
-🐨 I'm a graduate software developer based in Queensland, Australia.
+🐨 I'm a graduate software developer based in Australia.
 
-🔥 I'm a dedicated engineer with hands-on experience in full-stack web development and data science.
+🔥 I'm a engineer with a passion for full-stack software development and computer science.
 
-📈 I'm passionate about creating innovative web applications and data-driven solutions that enhance user experience and business value.
+📈 I'm experienced in building innovative web applications and data-driven solutions that enhance user experience and drive business value.
 
-🛠️ I'm also an active learner, avid problem solver, and effective communicator, aspiring to deliver highly performant solutions that focus on scalability and availability.
+🛠️ I'm also a dedicated learner, avid problem solver, and effective communicator, aspiring to deliver highly performant solutions that focus on scalability and availability.
 
 <!--/DIV:hello-->
 
@@ -66,18 +66,6 @@ JavaScript  58 hrs 21 mins   ███████████              21.4
 Python      47 hrs 22 mins   █████████                17.44%
 Markdown    27 hrs 2 mins    █████                    9.95%
 YAML        4 hrs 8 mins     █                        1.52%
-JSON        3 hrs 25 mins    █                        1.26%
-CSS         2 hrs 36 mins                             0.96%
-Other       2 hrs 13 mins                             0.82%
-INI         7 mins                                    0.05%
-Docker      7 mins                                    0.04%
-Bash        6 mins                                    0.04%
-TSConfig    4 mins                                    0.03%
-Git Config  4 mins                                    0.03%
-HTML        2 mins                                    0.01%
-Text        1 min                                     0.01%
-Git         0 secs                                    0.0%
-XML         0 secs                                    0.0%
 ```
 <!--/DIV:waka-->
 
@@ -104,5 +92,5 @@ XML         0 secs                                    0.0%
 
 ## 💡 Quote of the Day
 
-<blockquote>&ldquo;Sometimes out of your biggest misery, comes your greatest gain.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;You will succeed because most people are lazy.&rdquo; &mdash; <footer>Shahir Zag</footer></blockquote>
 <!--/DIV:qotd-->
