@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Never let the fear of striking out keep you from playing the game.&rdquo;</em>&mdash;Babe Ruth</p>
+<p align='center'><em>&ldquo;The important thing is not to stop questioning. Curiosity has its own reason for existing.&rdquo;</em>&mdash;Albert Einstein</p>
 <!--/Quote-->
