@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;The important thing is not to stop questioning. Curiosity has its own reason for existing.&rdquo;</em>&mdash;Albert Einstein</p>
+<p align='center'><em>&ldquo;Most people achieved their greatest success one step beyond what looked like their greatest failure.&rdquo;</em>&mdash;Brian Tracy</p>
 <!--/Quote-->
