@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Most people achieved their greatest success one step beyond what looked like their greatest failure.&rdquo;</em>&mdash;Brian Tracy</p>
+<p align='center'><em>&ldquo;Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.&rdquo;</em>&mdash;James Cameron</p>
 <!--/Quote-->
