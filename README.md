@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.&rdquo;</em>&mdash;James Cameron</p>
+<p align='center'><em>&ldquo;One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.&rdquo;</em>&mdash;Elbert Hubbard</p>
 <!--/Quote-->
