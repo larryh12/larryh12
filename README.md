@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.&rdquo;</em>&mdash;Elbert Hubbard</p>
+<p align='center'><em>&ldquo;If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.&rdquo;</em>&mdash;Dogen</p>
 <!--/Quote-->
