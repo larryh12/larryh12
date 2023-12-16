@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:larryhuynh+work@protonmail.com" target="_blank">Email</a>&nbsp;
+  <a href="https://www.larryhuynh.dev" target="_blank">About</a>&nbsp;
   <a href="https://www.linkedin.com/in/larryhuynhdev" target="_blank">LinkedIn</a>&nbsp;
-  <a href="https://www.larryhuynh.dev" target="_blank">About</a>
+  <a href="mailto:larryhuynh+work@protonmail.com" target="_blank">Email</a>
 </p>
 
 ---
