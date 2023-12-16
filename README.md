@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.&rdquo;</em>&mdash;Dogen</p>
+<p align='center'><em>&ldquo;Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.&rdquo;</em>&mdash;Samuel Butler</p>
 <!--/Quote-->
