@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.&rdquo;</em>&mdash;Samuel Butler</p>
+<p align='center'><em>&ldquo;Obstacles don't block the path, they are the path.&rdquo;</em>&mdash;Zen Proverb</p>
 <!--/Quote-->
