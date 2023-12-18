@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Obstacles don't block the path, they are the path.&rdquo;</em>&mdash;Zen Proverb</p>
+<p align='center'><em>&ldquo;We can see through others only when we can see through ourselves.&rdquo;</em>&mdash;Bruce Lee</p>
 <!--/Quote-->
