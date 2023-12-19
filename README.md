@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;We can see through others only when we can see through ourselves.&rdquo;</em>&mdash;Bruce Lee</p>
+<p align='center'><em>&ldquo;Whatever you are, be a good one.&rdquo;</em>&mdash;Abraham Lincoln</p>
 <!--/Quote-->
