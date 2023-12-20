@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Whatever you are, be a good one.&rdquo;</em>&mdash;Abraham Lincoln</p>
+<p align='center'><em>&ldquo;Luck is a matter of preparation meeting opportunity.&rdquo;</em>&mdash;Oprah Winfrey</p>
 <!--/Quote-->
