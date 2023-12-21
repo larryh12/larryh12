@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Luck is a matter of preparation meeting opportunity.&rdquo;</em>&mdash;Oprah Winfrey</p>
+<p align='center'><em>&ldquo;You'll get more from being a peacemaker than a warrior.&rdquo;</em>&mdash;Arnold Schwarzenegger</p>
 <!--/Quote-->
