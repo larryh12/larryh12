@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;You'll get more from being a peacemaker than a warrior.&rdquo;</em>&mdash;Arnold Schwarzenegger</p>
+<p align='center'><em>&ldquo;Never spend your money before you have earned it.&rdquo;</em>&mdash;Thomas Jefferson</p>
 <!--/Quote-->
