@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Never spend your money before you have earned it.&rdquo;</em>&mdash;Thomas Jefferson</p>
+<p align='center'><em>&ldquo;Longevity is a fleeting moment that lasts forever.&rdquo;</em>&mdash;Vidal Sassoon</p>
 <!--/Quote-->
