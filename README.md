@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Longevity is a fleeting moment that lasts forever.&rdquo;</em>&mdash;Vidal Sassoon</p>
+<p align='center'><em>&ldquo;Be brave to stand for what you believe in even if you stand alone.&rdquo;</em>&mdash;Roy T. Bennett</p>
 <!--/Quote-->
