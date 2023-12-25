@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Be brave to stand for what you believe in even if you stand alone.&rdquo;</em>&mdash;Roy T. Bennett</p>
+<p align='center'><em>&ldquo;Muddy water is best cleared by leaving it alone.&rdquo;</em>&mdash;Alan Watts</p>
 <!--/Quote-->
