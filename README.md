@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.&rdquo;</em>&mdash;Carl Bard</p>
+<p align='center'><em>&ldquo;Start the day with love, spend the day with love, fill the day with love and end the day with love.&rdquo;</em>&mdash;Sathya Sai Baba</p>
 <!--/Quote-->
