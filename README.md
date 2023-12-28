@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Start the day with love, spend the day with love, fill the day with love and end the day with love.&rdquo;</em>&mdash;Sathya Sai Baba</p>
+<p align='center'><em>&ldquo;A crisis is an opportunity riding the dangerous wind.&rdquo;</em>&mdash;Chinese Proverb</p>
 <!--/Quote-->
