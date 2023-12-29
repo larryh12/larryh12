@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;A crisis is an opportunity riding the dangerous wind.&rdquo;</em>&mdash;Chinese Proverb</p>
+<p align='center'><em>&ldquo;Don't let anyone define you. You define yourself.&rdquo;</em>&mdash;Billie Jean King</p>
 <!--/Quote-->
