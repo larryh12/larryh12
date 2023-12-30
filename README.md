@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Don't let anyone define you. You define yourself.&rdquo;</em>&mdash;Billie Jean King</p>
+<p align='center'><em>&ldquo;A Quitter never wins - and - a Winner never quits.&rdquo;</em>&mdash;Napoleon Hill</p>
 <!--/Quote-->
