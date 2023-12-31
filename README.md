@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;A Quitter never wins - and - a Winner never quits.&rdquo;</em>&mdash;Napoleon Hill</p>
+<p align='center'><em>&ldquo;We have to live life with a sense of urgency so not a minute is wasted.&rdquo;</em>&mdash;Les Brown</p>
 <!--/Quote-->
