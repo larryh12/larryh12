@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;We have to live life with a sense of urgency so not a minute is wasted.&rdquo;</em>&mdash;Les Brown</p>
+<p align='center'><em>&ldquo;You have to make time, even for something as universal as staring at the stars.&rdquo;</em>&mdash;W.P. Kinsella</p>
 <!--/Quote-->
