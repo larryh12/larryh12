@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;You have to make time, even for something as universal as staring at the stars.&rdquo;</em>&mdash;W.P. Kinsella</p>
+<p align='center'><em>&ldquo;He who cheats the earth will be cheated by the earth.&rdquo;</em>&mdash;Chinese Proverb</p>
 <!--/Quote-->
