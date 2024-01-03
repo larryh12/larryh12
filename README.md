@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;He who cheats the earth will be cheated by the earth.&rdquo;</em>&mdash;Chinese Proverb</p>
+<p align='center'><em>&ldquo;Far more crucial than what we know or do not know is what we do not want to know.&rdquo;</em>&mdash;Eric Hoffer</p>
 <!--/Quote-->
