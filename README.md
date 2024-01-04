@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Far more crucial than what we know or do not know is what we do not want to know.&rdquo;</em>&mdash;Eric Hoffer</p>
+<p align='center'><em>&ldquo;Age is a very high price to pay for maturity.&rdquo;</em>&mdash;William James</p>
 <!--/Quote-->
