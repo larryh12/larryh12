@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Age is a very high price to pay for maturity.&rdquo;</em>&mdash;William James</p>
+<p align='center'><em>&ldquo;When the world pushes you to your knees, you're in the perfect position to pray.&rdquo;</em>&mdash;Rumi</p>
 <!--/Quote-->
