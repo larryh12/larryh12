@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;When the world pushes you to your knees, you're in the perfect position to pray.&rdquo;</em>&mdash;Rumi</p>
+<p align='center'><em>&ldquo;Most people spend more time and energy going around problems than in trying to solve them. &rdquo;</em>&mdash;Henry Ford</p>
 <!--/Quote-->
