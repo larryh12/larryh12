@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.&rdquo;</em>&mdash;Dr. Seuss</p>
+<p align='center'><em>&ldquo;To be prepared is half the victory. &rdquo;</em>&mdash;Miguel de Cervantes</p>
 <!--/Quote-->
