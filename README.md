@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;To be prepared is half the victory. &rdquo;</em>&mdash;Miguel de Cervantes</p>
+<p align='center'><em>&ldquo;The most creative act you will ever undertake is the act of creating yourself.&rdquo;</em>&mdash;Deepak Chopra</p>
 <!--/Quote-->
