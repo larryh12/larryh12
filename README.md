@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;The most creative act you will ever undertake is the act of creating yourself.&rdquo;</em>&mdash;Deepak Chopra</p>
+<p align='center'><em>&ldquo;A man who dares to waste one hour of time has not discovered the value of life.&rdquo;</em>&mdash;Charles Darwin</p>
 <!--/Quote-->
