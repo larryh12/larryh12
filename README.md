@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;A man who dares to waste one hour of time has not discovered the value of life.&rdquo;</em>&mdash;Charles Darwin</p>
+<p align='center'><em>&ldquo;Yesterday is gone. Tomorrow has not yet come. We have only today.&rdquo;</em>&mdash;Mother Teresa</p>
 <!--/Quote-->
