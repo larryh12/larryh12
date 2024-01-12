@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Yesterday is gone. Tomorrow has not yet come. We have only today.&rdquo;</em>&mdash;Mother Teresa</p>
+<p align='center'><em>&ldquo;Presents are made for the pleasure of who gives them, not the merits of who receives them.&rdquo;</em>&mdash;Carlos Ruiz Zafon</p>
 <!--/Quote-->
