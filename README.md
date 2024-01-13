@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Presents are made for the pleasure of who gives them, not the merits of who receives them.&rdquo;</em>&mdash;Carlos Ruiz Zafon</p>
+<p align='center'><em>&ldquo;When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.&rdquo;</em>&mdash;Stephen King</p>
 <!--/Quote-->
