@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.&rdquo;</em>&mdash;Stephen King</p>
+<p align='center'><em>&ldquo;You're always free to change your mind and choose a different future, or a different past.&rdquo;</em>&mdash;Richard Bach</p>
 <!--/Quote-->
