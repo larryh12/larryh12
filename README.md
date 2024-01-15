@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;You're always free to change your mind and choose a different future, or a different past.&rdquo;</em>&mdash;Richard Bach</p>
+<p align='center'><em>&ldquo;To do two things at once is to do neither.&rdquo;</em>&mdash;Publilius Syrus</p>
 <!--/Quote-->
