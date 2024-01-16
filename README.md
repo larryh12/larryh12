@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;To do two things at once is to do neither.&rdquo;</em>&mdash;Publilius Syrus</p>
+<p align='center'><em>&ldquo;The goal is not to be perfect by the end, the goal is to be better today.&rdquo;</em>&mdash;Simon Sinek</p>
 <!--/Quote-->
