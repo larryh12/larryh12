@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.&rdquo;</em>&mdash;Robert Greene</p>
+<p align='center'><em>&ldquo;It's better to dance than to march through life.&rdquo;</em>&mdash;Yoko Ono</p>
 <!--/Quote-->
