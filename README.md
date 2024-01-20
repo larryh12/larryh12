@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;It's better to dance than to march through life.&rdquo;</em>&mdash;Yoko Ono</p>
+<p align='center'><em>&ldquo;Outstanding people have one thing in common: an absolute sense of mission.  &rdquo;</em>&mdash;Zig Ziglar</p>
 <!--/Quote-->
