@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Outstanding people have one thing in common: an absolute sense of mission.  &rdquo;</em>&mdash;Zig Ziglar</p>
+<p align='center'><em>&ldquo;The friendship that can cease has never been real. &rdquo;</em>&mdash;St. Jerome</p>
 <!--/Quote-->
