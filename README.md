@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;The friendship that can cease has never been real. &rdquo;</em>&mdash;St. Jerome</p>
+<p align='center'><em>&ldquo;You need to be doing fewer things for more effect instead of doing more things with side effects.&rdquo;</em>&mdash;Gary Keller</p>
 <!--/Quote-->
