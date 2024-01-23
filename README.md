@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;You need to be doing fewer things for more effect instead of doing more things with side effects.&rdquo;</em>&mdash;Gary Keller</p>
+<p align='center'><em>&ldquo;If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.&rdquo;</em>&mdash;Robert Greene</p>
 <!--/Quote-->
