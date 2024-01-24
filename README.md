@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.&rdquo;</em>&mdash;Robert Greene</p>
+<p align='center'><em>&ldquo;The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.&rdquo;</em>&mdash;Josh Waitzkin</p>
 <!--/Quote-->
