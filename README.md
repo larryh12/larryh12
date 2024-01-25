@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.&rdquo;</em>&mdash;Josh Waitzkin</p>
+<p align='center'><em>&ldquo;How you think is as important as as what you think.&rdquo;</em>&mdash;Unknown</p>
 <!--/Quote-->
