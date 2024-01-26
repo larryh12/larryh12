@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;How you think is as important as as what you think.&rdquo;</em>&mdash;Unknown</p>
+<p align='center'><em>&ldquo;You are free, and that is why you are lost. &rdquo;</em>&mdash;Franz Kafka</p>
 <!--/Quote-->
