@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;You are free, and that is why you are lost. &rdquo;</em>&mdash;Franz Kafka</p>
+<p align='center'><em>&ldquo;If someone betrays you once, it's their fault; if they betray you twice, it's your fault.&rdquo;</em>&mdash;Eleanor Roosevelt</p>
 <!--/Quote-->
