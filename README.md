@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;If someone betrays you once, it's their fault; if they betray you twice, it's your fault.&rdquo;</em>&mdash;Eleanor Roosevelt</p>
+<p align='center'><em>&ldquo;The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.&rdquo;</em>&mdash;Steve Maraboli</p>
 <!--/Quote-->
