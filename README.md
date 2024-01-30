@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Silence is a source of great strength.&rdquo;</em>&mdash;Lao Tzu</p>
+<p align='center'><em>&ldquo;Your only obligation in any lifetime is to be true to yourself.&rdquo;</em>&mdash;Richard Bach</p>
 <!--/Quote-->
