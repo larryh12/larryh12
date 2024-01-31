@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Your only obligation in any lifetime is to be true to yourself.&rdquo;</em>&mdash;Richard Bach</p>
+<p align='center'><em>&ldquo;Know yourself and you will win all battles.&rdquo;</em>&mdash;Sun Tzu</p>
 <!--/Quote-->
