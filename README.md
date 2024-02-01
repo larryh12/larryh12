@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Know yourself and you will win all battles.&rdquo;</em>&mdash;Sun Tzu</p>
+<p align='center'><em>&ldquo;What you get by achieving your goals is not as important as what you become by achieving your goals.&rdquo;</em>&mdash;Henry David Thoreau</p>
 <!--/Quote-->
