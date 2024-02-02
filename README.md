@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;What you get by achieving your goals is not as important as what you become by achieving your goals.&rdquo;</em>&mdash;Henry David Thoreau</p>
+<p align='center'><em>&ldquo;No one can hurt you without your consent.&rdquo;</em>&mdash;Eleanor Roosevelt</p>
 <!--/Quote-->
