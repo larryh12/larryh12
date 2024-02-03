@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;No one can hurt you without your consent.&rdquo;</em>&mdash;Eleanor Roosevelt</p>
+<p align='center'><em>&ldquo;No one ever said life was fair. Just Eventful.&rdquo;</em>&mdash;Carol Burnett</p>
 <!--/Quote-->
