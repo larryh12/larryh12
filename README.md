@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;No one ever said life was fair. Just Eventful.&rdquo;</em>&mdash;Carol Burnett</p>
+<p align='center'><em>&ldquo;The more knowledge you have, the more you're free to rely on your instincts.&rdquo;</em>&mdash;Arnold Schwarzenegger</p>
 <!--/Quote-->
