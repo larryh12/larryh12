@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;The more knowledge you have, the more you're free to rely on your instincts.&rdquo;</em>&mdash;Arnold Schwarzenegger</p>
+<p align='center'><em>&ldquo;There is a wisdom of the head, and there is a wisdom of the heart.&rdquo;</em>&mdash;Charles Dickens</p>
 <!--/Quote-->
