@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;There is a wisdom of the head, and there is a wisdom of the heart.&rdquo;</em>&mdash;Charles Dickens</p>
+<p align='center'><em>&ldquo;Be happy now, without reason - or you never will be at all.&rdquo;</em>&mdash;Dan Millman</p>
 <!--/Quote-->
