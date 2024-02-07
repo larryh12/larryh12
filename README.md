@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Be happy now, without reason - or you never will be at all.&rdquo;</em>&mdash;Dan Millman</p>
+<p align='center'><em>&ldquo;Create each day anew.&rdquo;</em>&mdash;Morihei Ueshiba</p>
 <!--/Quote-->
