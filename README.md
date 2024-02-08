@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Create each day anew.&rdquo;</em>&mdash;Morihei Ueshiba</p>
+<p align='center'><em>&ldquo;Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.&rdquo;</em>&mdash;Colin Powell</p>
 <!--/Quote-->
