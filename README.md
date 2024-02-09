@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.&rdquo;</em>&mdash;Colin Powell</p>
+<p align='center'><em>&ldquo;You are not one person, but three: The one you think you are; The one others think you are; The one you really are.&rdquo;</em>&mdash;Sathya Sai Baba</p>
 <!--/Quote-->
