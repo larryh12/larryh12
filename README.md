@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;You are not one person, but three: The one you think you are; The one others think you are; The one you really are.&rdquo;</em>&mdash;Sathya Sai Baba</p>
+<p align='center'><em>&ldquo;All great truths begin as blasphemies.&rdquo;</em>&mdash;George Bernard Shaw</p>
 <!--/Quote-->
