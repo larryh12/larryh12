@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;All great truths begin as blasphemies.&rdquo;</em>&mdash;George Bernard Shaw</p>
+<p align='center'><em>&ldquo;Man's character is his fate.&rdquo;</em>&mdash;Heraclitus</p>
 <!--/Quote-->
