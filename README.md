@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Man's character is his fate.&rdquo;</em>&mdash;Heraclitus</p>
+<p align='center'><em>&ldquo;We are all self-made, but only the successful will admit it.&rdquo;</em>&mdash;Earl Nightingale</p>
 <!--/Quote-->
