@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;We are all self-made, but only the successful will admit it.&rdquo;</em>&mdash;Earl Nightingale</p>
+<p align='center'><em>&ldquo;All leaders are readers.&rdquo;</em>&mdash;Jim Rohn</p>
 <!--/Quote-->
