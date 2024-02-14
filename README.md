@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;All leaders are readers.&rdquo;</em>&mdash;Jim Rohn</p>
+<p align='center'><em>&ldquo;Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.&rdquo;</em>&mdash;Jonathan Swift</p>
 <!--/Quote-->
