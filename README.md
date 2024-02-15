@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.&rdquo;</em>&mdash;Jonathan Swift</p>
+<p align='center'><em>&ldquo;If a thing is worth doing, it is worth doing badly.&rdquo;</em>&mdash;Gilbert Chesterton</p>
 <!--/Quote-->
