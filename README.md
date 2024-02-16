@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;If a thing is worth doing, it is worth doing badly.&rdquo;</em>&mdash;Gilbert Chesterton</p>
+<p align='center'><em>&ldquo;We are all born ignorant, but one must work hard to remain stupid.&rdquo;</em>&mdash;Benjamin Franklin</p>
 <!--/Quote-->
