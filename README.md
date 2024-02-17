@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;We are all born ignorant, but one must work hard to remain stupid.&rdquo;</em>&mdash;Benjamin Franklin</p>
+<p align='center'><em>&ldquo;Remember that sometimes not getting what you want is a wonderful stroke of luck.&rdquo;</em>&mdash;Dalai Lama</p>
 <!--/Quote-->
