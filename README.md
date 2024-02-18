@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Remember that sometimes not getting what you want is a wonderful stroke of luck.&rdquo;</em>&mdash;Dalai Lama</p>
+<p align='center'><em>&ldquo;Rudeness is the weak man's imitation of strength.&rdquo;</em>&mdash;Eric Hoffer</p>
 <!--/Quote-->
