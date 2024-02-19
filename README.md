@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Rudeness is the weak man's imitation of strength.&rdquo;</em>&mdash;Eric Hoffer</p>
+<p align='center'><em>&ldquo;Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. &rdquo;</em>&mdash;Franz Kafka</p>
 <!--/Quote-->
