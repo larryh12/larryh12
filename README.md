@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.&rdquo;</em>&mdash;Benjamin Mays</p>
+<p align='center'><em>&ldquo;Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.&rdquo;</em>&mdash;Ronald Reagan</p>
 <!--/Quote-->
