@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.&rdquo;</em>&mdash;Ronald Reagan</p>
+<p align='center'><em>&ldquo;To a mind that is still, the entire universe surrenders.&rdquo;</em>&mdash;Zhuangzi</p>
 <!--/Quote-->
