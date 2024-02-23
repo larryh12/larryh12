@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;To a mind that is still, the entire universe surrenders.&rdquo;</em>&mdash;Zhuangzi</p>
+<p align='center'><em>&ldquo;Children are our greatest natural resource.&rdquo;</em>&mdash;Herbert Hoover</p>
 <!--/Quote-->
