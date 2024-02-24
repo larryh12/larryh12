@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Children are our greatest natural resource.&rdquo;</em>&mdash;Herbert Hoover</p>
+<p align='center'><em>&ldquo;By failing to prepare, you are preparing to fail.&rdquo;</em>&mdash;Benjamin Franklin</p>
 <!--/Quote-->
