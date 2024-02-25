@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;By failing to prepare, you are preparing to fail.&rdquo;</em>&mdash;Benjamin Franklin</p>
+<p align='center'><em>&ldquo;Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.&rdquo;</em>&mdash;Stephen King</p>
 <!--/Quote-->
