@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.&rdquo;</em>&mdash;Stephen King</p>
+<p align='center'><em>&ldquo;Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.&rdquo;</em>&mdash;Eckhart Tolle</p>
 <!--/Quote-->
