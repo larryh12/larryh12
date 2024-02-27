@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.&rdquo;</em>&mdash;Eckhart Tolle</p>
+<p align='center'><em>&ldquo;A comfort zone is a beautiful place, but nothing ever grows there.&rdquo;</em>&mdash;Unknown</p>
 <!--/Quote-->
