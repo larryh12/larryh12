@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;A comfort zone is a beautiful place, but nothing ever grows there.&rdquo;</em>&mdash;Unknown</p>
+<p align='center'><em>&ldquo;It's your life-but only if you make it so.&rdquo;</em>&mdash;Eleanor Roosevelt</p>
 <!--/Quote-->
