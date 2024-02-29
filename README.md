@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;It's your life-but only if you make it so.&rdquo;</em>&mdash;Eleanor Roosevelt</p>
+<p align='center'><em>&ldquo;The man who removes a mountain begins by carrying away small stones.&rdquo;</em>&mdash;William Faulkner</p>
 <!--/Quote-->
