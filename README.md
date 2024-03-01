@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;The man who removes a mountain begins by carrying away small stones.&rdquo;</em>&mdash;William Faulkner</p>
+<p align='center'><em>&ldquo;The pain of parting is nothing to the joy of meeting again.&rdquo;</em>&mdash;Charles Dickens</p>
 <!--/Quote-->
