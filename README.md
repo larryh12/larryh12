@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;The pain of parting is nothing to the joy of meeting again.&rdquo;</em>&mdash;Charles Dickens</p>
+<p align='center'><em>&ldquo;It doesn't matter where you are coming from. All that matters is where you are going. &rdquo;</em>&mdash;Brian Tracy</p>
 <!--/Quote-->
