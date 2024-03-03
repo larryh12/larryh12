@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;It doesn't matter where you are coming from. All that matters is where you are going. &rdquo;</em>&mdash;Brian Tracy</p>
+<p align='center'><em>&ldquo;You don't need a weatherman to know which way the wind blows.&rdquo;</em>&mdash;Bob Dylan</p>
 <!--/Quote-->
