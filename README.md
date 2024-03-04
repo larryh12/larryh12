@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;You don't need a weatherman to know which way the wind blows.&rdquo;</em>&mdash;Bob Dylan</p>
+<p align='center'><em>&ldquo;Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work.&rdquo;</em>&mdash;John Eliot</p>
 <!--/Quote-->
