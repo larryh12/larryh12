@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work.&rdquo;</em>&mdash;John Eliot</p>
+<p align='center'><em>&ldquo;Admire as much as you can. Most people do not admire enough.&rdquo;</em>&mdash;Vincent van Gogh</p>
 <!--/Quote-->
