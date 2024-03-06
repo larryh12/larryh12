@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Admire as much as you can. Most people do not admire enough.&rdquo;</em>&mdash;Vincent van Gogh</p>
+<p align='center'><em>&ldquo;The world doesn't always give you want, but it often gives you what you need.&rdquo;</em>&mdash;Naval Ravikant</p>
 <!--/Quote-->
