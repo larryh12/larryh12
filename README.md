@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;The world doesn't always give you want, but it often gives you what you need.&rdquo;</em>&mdash;Naval Ravikant</p>
+<p align='center'><em>&ldquo;Everything flows, nothing stands still.&rdquo;</em>&mdash;Heraclitus</p>
 <!--/Quote-->
