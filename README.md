@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Everything flows, nothing stands still.&rdquo;</em>&mdash;Heraclitus</p>
+<p align='center'><em>&ldquo;You'll see it when you believe it. &rdquo;</em>&mdash;Wayne Dyer</p>
 <!--/Quote-->
