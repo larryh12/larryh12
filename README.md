@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;You'll see it when you believe it. &rdquo;</em>&mdash;Wayne Dyer</p>
+<p align='center'><em>&ldquo;We can spend our whole lives escaping from the monsters of our minds.&rdquo;</em>&mdash;Pema Chodron</p>
 <!--/Quote-->
