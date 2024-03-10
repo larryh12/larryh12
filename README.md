@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;We can spend our whole lives escaping from the monsters of our minds.&rdquo;</em>&mdash;Pema Chodron</p>
+<p align='center'><em>&ldquo;We cannot change anything unless we accept it.&rdquo;</em>&mdash;Carl Jung</p>
 <!--/Quote-->
