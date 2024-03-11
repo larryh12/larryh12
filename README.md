@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;We cannot change anything unless we accept it.&rdquo;</em>&mdash;Carl Jung</p>
+<p align='center'><em>&ldquo;Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.&rdquo;</em>&mdash;Criss Jami</p>
 <!--/Quote-->
