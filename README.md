@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.&rdquo;</em>&mdash;Criss Jami</p>
+<p align='center'><em>&ldquo;The best fighter is never angry.&rdquo;</em>&mdash;Lao Tzu</p>
 <!--/Quote-->
