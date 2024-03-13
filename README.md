@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;The best fighter is never angry.&rdquo;</em>&mdash;Lao Tzu</p>
+<p align='center'><em>&ldquo;Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.&rdquo;</em>&mdash;Alfred Adler</p>
 <!--/Quote-->
