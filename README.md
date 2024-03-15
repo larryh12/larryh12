@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.&rdquo;</em>&mdash;Peter Drucker</p>
+<p align='center'><em>&ldquo;We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.&rdquo;</em>&mdash;Emily Dickinson</p>
 <!--/Quote-->
