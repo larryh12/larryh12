@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.&rdquo;</em>&mdash;Emily Dickinson</p>
+<p align='center'><em>&ldquo;Your happiness is what truly matters most. Do what you have to do in order to be happy.&rdquo;</em>&mdash;Brian Tracy</p>
 <!--/Quote-->
