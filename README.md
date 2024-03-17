@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Your happiness is what truly matters most. Do what you have to do in order to be happy.&rdquo;</em>&mdash;Brian Tracy</p>
+<p align='center'><em>&ldquo;Giving back involves a certain amount of giving up.&rdquo;</em>&mdash;Colin Powell</p>
 <!--/Quote-->
