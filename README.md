@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Giving back involves a certain amount of giving up.&rdquo;</em>&mdash;Colin Powell</p>
+<p align='center'><em>&ldquo;Be fascinated instead of frustrated.&rdquo;</em>&mdash;Jim Rohn</p>
 <!--/Quote-->
