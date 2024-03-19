@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Be fascinated instead of frustrated.&rdquo;</em>&mdash;Jim Rohn</p>
+<p align='center'><em>&ldquo;Simple words, repeated daily, can change your life.&rdquo;</em>&mdash;Maxime Lagace</p>
 <!--/Quote-->
