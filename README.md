@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Simple words, repeated daily, can change your life.&rdquo;</em>&mdash;Maxime Lagace</p>
+<p align='center'><em>&ldquo;Life is what you make it. Always has been, always will be.&rdquo;</em>&mdash;Eleanor Roosevelt</p>
 <!--/Quote-->
