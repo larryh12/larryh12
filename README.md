@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Life is what you make it. Always has been, always will be.&rdquo;</em>&mdash;Eleanor Roosevelt</p>
+<p align='center'><em>&ldquo;Excellence is not an exception, it is a prevailing attitude.&rdquo;</em>&mdash;Colin Powell</p>
 <!--/Quote-->
