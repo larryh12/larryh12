@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Excellence is not an exception, it is a prevailing attitude.&rdquo;</em>&mdash;Colin Powell</p>
+<p align='center'><em>&ldquo;You are now, and you do become, what you think about.&rdquo;</em>&mdash;Earl Nightingale</p>
 <!--/Quote-->
