@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;You are now, and you do become, what you think about.&rdquo;</em>&mdash;Earl Nightingale</p>
+<p align='center'><em>&ldquo;It's easier to lose than to win.  &rdquo;</em>&mdash;Wayne Gretzky</p>
 <!--/Quote-->
