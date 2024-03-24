@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;It's easier to lose than to win.  &rdquo;</em>&mdash;Wayne Gretzky</p>
+<p align='center'><em>&ldquo;Everything you've ever wanted is on the other side of fear.&rdquo;</em>&mdash;Brian Tracy</p>
 <!--/Quote-->
