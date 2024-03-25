@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Everything you've ever wanted is on the other side of fear.&rdquo;</em>&mdash;Brian Tracy</p>
+<p align='center'><em>&ldquo;Write to help yourself, publish to help others.&rdquo;</em>&mdash;Jack Butcher</p>
 <!--/Quote-->
