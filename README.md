@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Write to help yourself, publish to help others.&rdquo;</em>&mdash;Jack Butcher</p>
+<p align='center'><em>&ldquo;Confidence is what you have before you understand the problem.&rdquo;</em>&mdash;Woody Allen</p>
 <!--/Quote-->
