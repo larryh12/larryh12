@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Confidence is what you have before you understand the problem.&rdquo;</em>&mdash;Woody Allen</p>
+<p align='center'><em>&ldquo;Intense love does not measure, it just gives.&rdquo;</em>&mdash;Mother Teresa</p>
 <!--/Quote-->
