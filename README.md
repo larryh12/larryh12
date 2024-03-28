@@ -12,5 +12,5 @@
 ---
 
 <!--Quote-->
-<p align='center'><em>&ldquo;Intense love does not measure, it just gives.&rdquo;</em>&mdash;Mother Teresa</p>
+<p align='center'><em>&ldquo;Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.&rdquo;</em>&mdash;Brian Tracy</p>
 <!--/Quote-->
